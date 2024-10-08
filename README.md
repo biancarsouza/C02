@@ -5,10 +5,10 @@ Neste repositório reúno todos os códigos desenvolvidos durante as aula de C02
 
 Cada pasta é um assunto diferente visto em sala, o título de cada arquivo é o nome do exercício.
 
-#### Entrada e saída
+### Entrada e saída
 Nesta pasta estão os exercícios iniciais, aqui vemos sobre a estrutura básica do código, tipos de variáveis (**int**, **double**, **float** e **char**), operadores aritméticos e entrada e saída de dados.
 
-#### Estruturas de seleção
+### Estruturas de seleção
 Nesta pasta estão os exercícios de **if** e os de **switch**. A diferença entre as estruturas é que o *switch* trabalha apenas com variáveis *int* e *char*, comparando um valor exato.
 
 ```c++
@@ -25,7 +25,7 @@ if(n == 61) {
 }
 ```
 
-#### Estruturas de repetição
+### Estruturas de repetição
 Nesta pasta estão os exercícios de **for**, **while** e **do while**, que são estruturas que continuam executando um trecho de código enquanto a condição for verdadeira. 
 
 - O *for* tem um contador, uma condição e um incremento do contador; cada vez que executamos o trecho entre chaves, o seu contador muda o valor, depois é verificado se a condição continua verdadeira para executar o trecho novamente.
@@ -50,5 +50,5 @@ do {
 } while(i < n);
 ```
 
-#### Vetores
+### Vetores
 Nesta pasta estão os exercícios sobre vetores, uma estrutura de dados que armazena uma coleção de elementos do mesmo tipo em sequência na memória. Seus elementos são acessados através de índices.

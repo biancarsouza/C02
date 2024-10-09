@@ -52,3 +52,6 @@ do {
 
 ### Vetores
 Nesta pasta estão os exercícios sobre vetores, uma estrutura de dados que armazena uma coleção de elementos do mesmo tipo em sequência na memória. Seus elementos são acessados através de índices.
+
+### String
+Nesta pasta estão os exercícios sobre **string**, um tipo de dado que armazena palavras. Vemos sobre como fazer sua leitura e como compará-las. É importante lembrar de incluir a biblioteca string.
